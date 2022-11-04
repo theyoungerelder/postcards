@@ -1,0 +1,17 @@
+---
+title: "Jason Elder"
+image: ""
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jason-elder-85712a1b4/"
+  - label: Instagram
+    url: "https://www.instagram.com/the.younger.elder/?hl=en"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "jason Elder:jelder@uoregon.edu"
+output:
+  postcards::jolla
+---
+
+I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.
